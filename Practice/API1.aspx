@@ -14,7 +14,18 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+        <div class="container">
+            <asp:GridView ID="gvBooks" runat="server" AutoGenerateColumns="False">
+                <Columns>
+                    <asp:BoundField DataField="ISBN" HeaderText="ISBN" />
+                    <asp:BoundField DataField="Title" HeaderText="Title" />
+                    <asp:BoundField DataField="Author" HeaderText="Author" />
+                    <asp:BoundField DataField="Price" HeaderText="Price" />
+                    <asp:BoundField DataField="TotalSales" HeaderText="Total Sales" />
+                    <asp:BoundField DataField="TotalRented" HeaderText="Total Rented" />
+                    <asp:BoundField DataField="TotalSold" HeaderText="Total Sold" />
+                </Columns>
+            </asp:GridView>
         </div>
     </form>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" ></script>
