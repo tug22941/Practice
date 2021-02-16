@@ -12,3 +12,6 @@ C:\Users\ninjakid362\Desktop\Git\Practice\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.
 C:\Users\ninjakid362\Desktop\Git\Practice\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
 C:\Users\ninjakid362\Desktop\Git\Practice\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
 C:\Users\ninjakid362\Desktop\Git\Practice\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
+C:\Users\ninjakid362\Desktop\Git\Practice\WebAPI\bin\Debug\netcoreapp2.1\Utilities.dll
+C:\Users\ninjakid362\Desktop\Git\Practice\WebAPI\bin\Debug\netcoreapp2.1\Utilities.pdb
+C:\Users\ninjakid362\Desktop\Git\Practice\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CopyComplete
