@@ -73,6 +73,7 @@
     <Content Include="HFC1.aspx" />
     <Content Include="Style\Default.css" />
     <Content Include="Web.config" />
+    <Content Include="WFC1.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="API1.aspx.cs">
@@ -104,6 +105,13 @@
       <DependentUpon>HFC1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WFC1.aspx.cs">
+      <DependentUpon>WFC1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WFC1.aspx.designer.cs">
+      <DependentUpon>WFC1.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
