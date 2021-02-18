@@ -4,3 +4,9 @@ C:\Users\ninjakid362\Desktop\Git\Practice\Utilities\obj\Debug\Utilities.csprojAs
 C:\Users\ninjakid362\Desktop\Git\Practice\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\ninjakid362\Desktop\Git\Practice\Utilities\obj\Debug\Utilities.dll
 C:\Users\ninjakid362\Desktop\Git\Practice\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Jonah\OneDrive\Desktop\Git\Practice\Practice\Utilities\bin\Debug\Utilities.dll
+C:\Users\Jonah\OneDrive\Desktop\Git\Practice\Practice\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Jonah\OneDrive\Desktop\Git\Practice\Practice\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Jonah\OneDrive\Desktop\Git\Practice\Practice\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\OneDrive\Desktop\Git\Practice\Practice\Utilities\obj\Debug\Utilities.dll
+C:\Users\Jonah\OneDrive\Desktop\Git\Practice\Practice\Utilities\obj\Debug\Utilities.pdb

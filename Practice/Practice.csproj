@@ -70,6 +70,7 @@
     <Content Include="API1.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Gridview_P1.aspx" />
+    <Content Include="HFC1.aspx" />
     <Content Include="Style\Default.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -94,6 +95,13 @@
     </Compile>
     <Compile Include="Gridview_P1.aspx.designer.cs">
       <DependentUpon>Gridview_P1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HFC1.aspx.cs">
+      <DependentUpon>HFC1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HFC1.aspx.designer.cs">
+      <DependentUpon>HFC1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

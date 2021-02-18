@@ -12550,23 +12550,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ninjakid362\\.nuget\\packages\\": {},
+    "C:\\Users\\Jonah\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninjakid362\\Desktop\\Git\\Practice\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Jonah\\OneDrive\\Desktop\\Git\\Practice\\Practice\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\ninjakid362\\Desktop\\Git\\Practice\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\ninjakid362\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninjakid362\\Desktop\\Git\\Practice\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\Jonah\\OneDrive\\Desktop\\Git\\Practice\\Practice\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Jonah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonah\\OneDrive\\Desktop\\Git\\Practice\\Practice\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ninjakid362\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jonah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12579,8 +12579,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ninjakid362\\Desktop\\Git\\Practice\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\ninjakid362\\Desktop\\Git\\Practice\\Utilities\\Utilities.csproj"
+            "C:\\Users\\Jonah\\OneDrive\\Desktop\\Git\\Practice\\Practice\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\Users\\Jonah\\OneDrive\\Desktop\\Git\\Practice\\Practice\\Utilities\\Utilities.csproj"
             }
           }
         }
